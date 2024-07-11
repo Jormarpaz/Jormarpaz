@@ -1,0 +1,115 @@
+{% extends "layout.html" %}
+
+{% block CSS %}
+<link href="{{ url_for('static', filename='contact-style.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block Script%}
+<script src="https://kit.fontawesome.com/" crossorigin="anonymous"></script>
+{% endblock %}
+
+{% block title %}
+  Contacto
+{% endblock %}
+
+{% block main %}
+</head>
+<body class="contact">
+  <header>
+    <div class="icons">
+      <a target = "_blank" href="https://t.me/Jormarpaz">
+        <div class="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="fab fa-telegram"><img src="static/tlgrm.png"></span>
+        </div>
+        <div class="text">Telegram</div>
+      </a>
+      <a target = "_blank" href="https://github.com/Jormarpaz">
+        <div class="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="fab fa-github"><img src="static/gthb.png"></span>
+        </div>
+        <div class="text">Github</div>
+      </a>
+      <a target = "_blank" href="static/CV.pdf">
+        <div class="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="fab fa-curriculum"><img src="static/cv.png"></span>
+        </div>
+      <div class="text">Curriculum</div>
+      </a>
+      <a target = "_blank" href="https://www.linkedin.com/in/jormarpaz" type="png">
+        <div class="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="fab fa-linkedin-in"><img src="static/lnkdn.png"></span>
+        </div>
+      <div class="text">Linkedin</div>
+      </a>
+      <!--
+      <a target = "_blank" href="https://www.instagram.com/jormarpaz/">
+        <div class="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="fab fa-instagram"><img src="static/instgrm.png"></span>
+        </div>
+    <div class="text">Instagram</div>
+    </a>
+    -->
+    </div>
+  </header>
+    <div class="container-1">
+      <div class="container-2">
+        <main>
+          <section class="contact-form">
+          <h2>Formulario de Contacto</h2>
+          <form action="{{ url_for('submit') }}" method="post">
+              <div class="mb-3">
+                  <label for="name" class="form-label">Nombre</label>
+                  <input autocomplete="off" type="text" class="form-control" id="name" name="name" required>
+              </div>
+              <div class="mb-3">
+                  <label for="email" class="form-label">Correo Electrónico</label>
+                  <input autocomplete="off" type="email" class="form-control" id="email" name="email" required>
+              </div>
+              <div class="mb-3">
+                  <label for="subject" class="form-label">Asunto</label>
+                  <input autocomplete="off" type="text" class="form-control" id="asunto" name="asunto" required>
+              </div>
+              <div class="mb-3">
+                  <label for="message" class="form-label">Mensaje</label>
+                  <textarea class="form-control" id="mensaje" name="mensaje" rows="4" required></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Enviar</button>
+          </form>
+      </section>
+        <section class="contact-info mt-4">
+          <h2>Información de Contacto</h2>
+          <div class="contact-details">
+            <address>
+              <p><a class = "email" href="mailto:jormarpaz01@gmail.com">jormarpaz01@gmail.com</a></p>
+              <p><a href="tel:+34630005088">+34 630 00 50 88</a></p>
+            </address>
+          </div>
+        </section>
+    </main>
+      </div>
+    </div>
+{% endblock %}
+
+
+
+

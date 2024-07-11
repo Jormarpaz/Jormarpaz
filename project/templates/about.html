@@ -1,0 +1,94 @@
+{% extends "layout.html" %}
+
+{% block CSS %}
+<link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block title %}
+    Sobre Mi
+{% endblock %}
+
+{% block main %}
+<div class= "container-1">
+    <div class= "container-2">
+        <header>
+            <hgroup id="intro2">
+                <h2></h2>
+                <p>
+                    Tras terminar Bachillerato decidí estudiar una FP
+                    de <font color="#a29bfe">Robótica y Automatización Industrial</font>, sector en el que tuve la oportunidad de realizar practicas
+                    y trabajar durante 1 año. Fue en esta época en la que tomé la decisión de estudiar la carrera de Ingeniería Informática para así
+                    poder dedicarme a lo que realmente me gustaba y quería, ya no solo
+                    enfocado en el ámbito de la programación sino todo lo que la
+                    informática conlleva y abarca.
+                </p>
+            </hgroup>
+        </header>
+        <main>
+            <div>
+                <hgroup id="intro">
+                    <h4>Aptitudes</h4>
+                    <p>A lo largo de mi vida y gracias a mi experiencia laboral, he podido
+                        desarrollar múltiples <font color="#a29bfe">"soft skills"</font>, esenciales a la hora de llevar a cabo proyectos:
+                        las habilidades comunicativas (ya no solo compañeros, sino también superiores o clientes), la capacidad de adaptación
+                        en un sector en constante cambio, saber priorizar, ser responsable y disciplinado, tener la capacidad de escuchar a los demás...
+                        entre otras tantas. He tenido la suerte e trabajar en sectores donde todo esto era fundamental,
+                        si bien considero que, de una forma u otra, lo más
+                        importante es estar abierto a aprender,
+                        que no te duela el orgullo y saber admitir que estas equivocado.
+                    </p>
+                    <p>En lo referente a <font color="#a29bfe">habilidades técnicas</font>, cuento con experiencia en varios
+                        lenguajes de programación y ámbitos como:
+                        <ul>
+                            <li>Python</li>
+                            <li>C</li>
+                            <li>Java</li>
+                            <li>HTML y CSS (si es que se pueden considerar lenguajes)</li>
+                            <li>SQL</li>
+                            <li>Arduino</li>
+                        </ul>
+                        Y a mayores soy gran fan de aprender idiomas:
+                        <table class="tabla">
+                            <thead>
+                                <tr>
+                                    <th scope = "col">Idioma</th>
+                                    <th scope = "col"> Nivel</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope = "row">Castellano</th>
+                                    <td> Nativo</td>
+                                </tr>
+                                <tr>
+                                    <th scope = "row">Gallego</th>
+                                    <td> Alto</td>
+                                </tr>
+                                <tr>
+                                    <th scope = "row">Inglés</th>
+                                    <td> C1</td>
+                                </tr>
+                                <tr>
+                                    <th scope = "row">Japonés</th>
+                                    <td> A2 y en progeso</td>
+                                </tr>
+                            </tbody>
+                    </table>
+                </p>
+            </hgroup>
+            <hgroup id="intro2">
+                <p>
+                    Para terminar, he complementado mi formación con la realización en paralelo
+                    de cursos como por ejemplo, el curso de <font color="#a29bfe">Harvard CS50</font>,
+                    donde he podido adquirir una nueva visión sobre lenguajes como C, Python, SQL... e incluso el uso de
+                    frameworks como Flask para Responsive Webs empleando en conjunto HTML y Python.
+                    Para más información, ir al apartado de proyectos.
+                </p>
+            </hgroup>
+            </div>
+        </main>
+    </div>
+</div>
+{% endblock %}
+
+
