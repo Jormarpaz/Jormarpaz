@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# 💫 About Me:
 🔭 Estudiando Ingeniería Informática en la UNED y mejorando mis habilidades en programación y desarrollo de proyectos.<br>👯 Busco proyectos que me desafíen a aplicar y expandir mis conocimientos en Python, C, Java, y más.<br>🤝 Me gustaría explorar nuevas tecnologías y frameworks que puedan potenciar mis proyectos y enriquecer mi aprendizaje.<br>🌱 Estoy aprendiendo lenguajes de programación avanzados, frameworks como Flask, y sigo desarrollando mis habilidades en idiomas (actualmente, japonés).<br>💬 Pregúntame sobre Programación, robótica, automatización industrial, o cómo es estudiar en la UNED :)<br>⚡ Soy un apasionado de los idiomas, videojuegos, series y mundos de fantasía en general.
 
 
