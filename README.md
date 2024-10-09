@@ -6,7 +6,7 @@
 
 🤝 Siempre estoy buscando nuevas tecnologías y frameworks que puedan enriquecer mis proyectos y mi aprendizaje, especialmente en áreas que me permitan salir de mi zona de confort.
 
-🌱 Actualmente, estoy profundizando en lenguajes de programación avanzados, frameworks como Flask y sigo aprendiendo idiomas (¡ahora mismo, japonés!), lo que me permite entender y adaptarme mejor a entornos multiculturales.
+🌱 Actualmente, estoy profundizando en lenguajes de programación avanzados, frameworks como Flask o Django, y sigo aprendiendo idiomas (¡ahora mismo, japonés!), lo que me permite entender y adaptarme mejor a entornos multiculturales.
 
 💬 Si quieres saber más, no dudes en preguntarme sobre programación, robótica, automatización industrial o mi experiencia estudiando en la UNED. ¡Estaré encantado de ayudarte!
 
