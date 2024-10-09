@@ -1,46 +1,61 @@
-### Buenas, soy Jorge👋 
+# 💫 About Me
 
-# 💫 Sobre Mi:
-🔭 Tengo 22 años, soy de Galicia y estoy estudiando Ingeniería Informática en la UNED, asi como mejorando mis habilidades en programación y desarrollo de proyectos.<br>
-👯 Busco proyectos que me desafíen a aplicar y expandir mis conocimientos en Python, C, Java, y más.<br>
-🤝 Me gustaría explorar nuevas tecnologías y frameworks que puedan potenciar mis proyectos y enriquecer mi aprendizaje.<br>
-🌱 Estoy aprendiendo lenguajes de programación avanzados, frameworks como Flask, y sigo desarrollando mis habilidades en idiomas (actualmente, japonés).<br>
-💬 Pregúntame sobre programación, robótica, automatización industrial, o cómo es estudiar en la UNED :)<br>
-⚡ Soy un apasionado de los idiomas, videojuegos, series y mundos de fantasía en general.
+🔭 Soy un joven de 22 años de Galicia, actualmente estudiando Ingeniería Informática en la UNED mientras continuo perfeccionando mis habilidades en programación y desarrollo de proyectos.
 
+👯 Me apasiona trabajar en proyectos que representen un desafío y me permitan aplicar y expandir mis conocimientos en Python, C, Java, y otras tecnologías emergentes.
 
-## 🌐 RRSS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jormarpaz/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jormarpaz/) 
-[![Linkedin](https://img.shields.io/badge/Telegram-ff6600?logo=telegram&logoColor=white)](https://t.me/Jormarpaz) 
+🤝 Siempre estoy buscando nuevas tecnologías y frameworks que puedan enriquecer mis proyectos y mi aprendizaje, especialmente en áreas que me permitan salir de mi zona de confort.
+
+🌱 Actualmente, estoy profundizando en lenguajes de programación avanzados, frameworks como Flask y sigo aprendiendo idiomas (¡ahora mismo, japonés!), lo que me permite entender y adaptarme mejor a entornos multiculturales.
+
+💬 Si quieres saber más, no dudes en preguntarme sobre programación, robótica, automatización industrial o mi experiencia estudiando en la UNED. ¡Estaré encantado de ayudarte!
+
+⚡ Soy un apasionado de los idiomas, videojuegos, series y mundos de fantasía. Siempre estoy dispuesto a explorar nuevas historias y universos, tanto en la vida real como en el mundo digital.
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jormarpaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jormarpaz)
+[![Telegram](https://img.shields.io/badge/Telegram-ff6600?logo=telegram&logoColor=white)](https://t.me/Jormarpaz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-990099?logo=prettier&logoColor=white)](https://jormarpaz.eu.pythonanywhere.com/)
 
-# 💻 Tecnologías que uso:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 Estadísticas GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Jormarpaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jormarpaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jormarpaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Trofeos GitHub
-![](https://github-profile-trophy.vercel.app/?username=Jormarpaz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats
 
-### ✍️ Frase Aleatoria de un Dev
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Jormarpaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-### 🔝 Top de Repos Contribuidas
-![](https://github-contributor-stats.vercel.app/api?username=Jormarpaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jormarpaz&theme=dark&hide_border=false)
+
+![Longest Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Jormarpaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jormarpaz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jormarpaz&icon=1&color=6)](https://visitcount.itsvg.in)
+[![Visits Count](https://visitcount.itsvg.in/api?id=Jormarpaz&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
