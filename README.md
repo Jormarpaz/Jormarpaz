@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Soy un joven de 22 años de Galicia, actualmente estudiando Ingeniería Informática en la UNED mientras continuo perfeccionando mis habilidades en programación y desarrollo de proyectos.
+🔭 Me llamo Jorge, tengo 22 años y soy de Galicia, actualmente estoy estudiando Ingeniería Informática en la UNED mientras continuo perfeccionando mis habilidades en programación y desarrollo de proyectos.
 
 👯 Me apasiona trabajar en proyectos que representen un desafío y me permitan aplicar y expandir mis conocimientos en Python, C, Java, y otras tecnologías emergentes.
 
